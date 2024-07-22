@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a9a0b74-404b-49b0-a778-6272ac137776/deploy-status)](https://app.netlify.com/sites/letskula-com/deploys)
 # Netlify Next.js + TypeScript + MUI Starter  
 
 ![Netlify Next.js + TS + MUI Starter](https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
